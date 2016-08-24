@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 #This url marks the starting point of the scraping. Change this to the home page of the hotel's page of any city / region/ state on TA
-start = "https://www.tripadvisor.com/Hotels-g187849-Milan_Lombardy-Hotels.html"
+start = "https://www.example.com/Hotels-g18181818-Paris_Paris-Hotels.html"
 
 #Create a folder for the current date and change the working directory to it
 file = datetime.date.today()
